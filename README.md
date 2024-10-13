@@ -1,2 +1,2 @@
 
-# https://github.com/zellyo-digital0/Holiday-Nation-/gomo
+ https://zellyo-digital0.github.io/gomo
